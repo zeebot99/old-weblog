@@ -17,6 +17,10 @@ This repo is for my documentation purposes only. If you want a similar website, 
 
 You can reach me at any of the methods listed on my [contact page](https://zeebot.weblog.lol/contact).
 
+## Authors and acknowledgements
+
+This repo and all files, exluding the `configuration` file, were created by me. The `configuration` file contains the files that come with the weblog when signing up for omg.lol, so those were created by [Neatnik](https://neatnik.net/) and edited by me. This `README` was created by me via [makeareadme.com](https://www.makeareadme.com/).
+
 ## License
 
 [MIT](https://github.com/zeebot99/old-weblog/blob/main/LICENSE)
