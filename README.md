@@ -19,7 +19,7 @@ You can reach me at any of the methods listed on my [contact page](https://zeebo
 
 ## Authors and acknowledgements
 
-This repo and all files, exluding the `configuration` file, were created by me. The `configuration` file contains the files that come with the weblog when signing up for omg.lol, so those were created by [Neatnik](https://neatnik.net/) and edited by me. This `README` was created by me via [makeareadme.com](https://www.makeareadme.com/).
+This repo and all files, exluding the `configuration` file, were created by me. The `configuration` file contains the files that come with the weblog when signing up for omg.lol, so those were created by [Neatnik](https://neatnik.net/) and edited by me. This `README` was created by me via [makeareadme.com](https://www.makeareadme.com/). I picked the license below via [choosealicense.com](https://choosealicense.com/).
 
 ## License
 
