@@ -5,7 +5,7 @@
 
 This is a repository to store my old omg.lol weblog files. Here's what it used to look like:
 
-[pic]
+![The homepage of my old weblog](https://github.com/zeebot99/old-weblog/blob/main/old-weblog.png)
 
 This repo is ***not in active development***. I have moved to [11ty](https://11ty.dev) for static site generation and GitHub Pages for hosting. You can see the fruits of my labor at [zeebot.weblog.lol](https://zeebot.weblog.lol) and the repo for that [here](https://github.com/zeebot99/web-blog).
 
@@ -19,4 +19,4 @@ You can reach me at any of the methods listed on my [contact page](https://zeebo
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/zeebot99/old-weblog/blob/main/LICENSE)
